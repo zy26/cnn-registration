@@ -1,6 +1,6 @@
-numpy
+numpy==1.16.1
 scipy
 opencv-python
 matplotlib
-tensorflow
+tensorflow==1.5.0
 lap

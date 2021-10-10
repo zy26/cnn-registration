@@ -1,7 +1,8 @@
 from numpy import *
 import math
-from utils import pairwise_distance
+from utils.utils import pairwise_distance
 
+xrange = range
 seterr(all='ignore')
 
 
